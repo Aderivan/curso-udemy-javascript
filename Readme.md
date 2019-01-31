@@ -16,8 +16,8 @@ Curso com 13 tópicos:
   - Gulp
   - WebPack
   - Jquery
-  - BootStrao
-  - Galeria
+  - BootStrap
+  - ...
   
 # Abaixo o link do curso e tópicos completos:
 * [Web morderno na Udemy](https://www.udemy.com/curso-web/)
