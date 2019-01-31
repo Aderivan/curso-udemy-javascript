@@ -1,0 +1,5 @@
+Exemploes de como e quando usar o this
+
+https://desenvolvimentoparaweb.com/javascript/this-javascript-dominando/
+
+https://www.webdevdrops.com/javascript-this-71dd763aad52/
