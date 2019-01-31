@@ -4,7 +4,7 @@
 
 # Tópicos abordados
 
-Aula com 13 tópicos:
+Curso com 13 tópicos:
 
   - Javascript - Passando pelos principais tópicos como fundamentos, funçã, objetos, arrays, etc.
   - NODE
