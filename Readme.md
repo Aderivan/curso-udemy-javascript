@@ -17,7 +17,7 @@ Curso com 13 tópicos:
   - WebPack
   - Jquery
   - BootStrap
-  - ...
+
   
 # Abaixo o link do curso e tópicos completos:
 * [Web morderno na Udemy](https://www.udemy.com/curso-web/)
@@ -29,3 +29,4 @@ Curso com 13 tópicos:
  
 - Comecei o curso no dia 20/01
 - 30/01 Finalizei o tópico Objeto e irei dar início a Arrays
+- 31/01 Iniciei o tópico Array
