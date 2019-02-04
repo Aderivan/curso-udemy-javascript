@@ -9,3 +9,11 @@ const familia = ['Andreza', 'Victoria', 'Dan', 'Alice']
 familia.forEach2(function(nome, indice){
     console.log(`${indice + 1}) ${nome}`)
 })
+
+
+String.prototype.addTexto = function (texto) {
+    return console.log(this + ' ' + texto)
+} 
+    
+var Nome = 'Dan'
+Nome.addTexto('Tabacudo')

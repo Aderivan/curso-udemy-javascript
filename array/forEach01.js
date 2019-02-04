@@ -9,3 +9,8 @@ familia.forEach(function(nome, indice){
 familia.forEach(function(nome){
     console.log(nome)
 })
+
+
+
+
+ 
