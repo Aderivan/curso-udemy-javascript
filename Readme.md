@@ -30,4 +30,5 @@ Curso com 13 tópicos:
 - Comecei o curso no dia 20/01
 - 30/01 Finalizei o tópico Objeto e irei dar início a Arrays
 - 31/01 Iniciei o tópico Array
-04/02 Finalizei os estudos do MAP (dentro do tópico array)
+- 04/02 Finalizei os estudos do MAP (dentro do tópico array)
+- 19/02 Finalizei os estudos de Array e de Node. Iniciei os estudos de ESNext
